@@ -1,0 +1,7 @@
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\obj\Debug\DrawDirectly.csprojAssemblyReference.cache
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\obj\Debug\DrawDirectly.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\bin\Debug\DrawDirectly.exe.config
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\bin\Debug\DrawDirectly.exe
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\bin\Debug\DrawDirectly.pdb
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\obj\Debug\DrawDirectly.exe
+D:\Visual Studio projects\DrawDirectly\DrawDirectly\obj\Debug\DrawDirectly.pdb

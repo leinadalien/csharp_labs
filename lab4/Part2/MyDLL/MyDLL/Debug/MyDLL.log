@@ -1,0 +1,11 @@
+﻿  MyDLL.cpp
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.cpp(10,1): warning C4273: FibonacciInit: несовместимое связывание dll
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.h(8,27): message : см. предыдущее определение "FibonacciInit"
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.cpp(16,1): warning C4273: FibonacciNext: несовместимое связывание dll
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.h(9,27): message : см. предыдущее определение "FibonacciNext"
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.cpp(30,1): warning C4273: FibonacciCurrent: несовместимое связывание dll
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.h(10,41): message : см. предыдущее определение "FibonacciCurrent"
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.cpp(34,1): warning C4273: FibonacciIndex: несовместимое связывание dll
+D:\Visual Studio projects\MyDLL\MyDLL\MyDLL.h(11,31): message : см. предыдущее определение "FibonacciIndex"
+     Создается библиотека D:\Visual Studio projects\MyDLL\Debug\MyDLL.lib и объект D:\Visual Studio projects\MyDLL\Debug\MyDLL.exp
+  MyDLL.vcxproj -> D:\Visual Studio projects\MyDLL\Debug\MyDLL.dll
