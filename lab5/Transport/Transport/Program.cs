@@ -11,7 +11,7 @@ namespace Transport
             a.SetRegistrationNumber("7856 IM-1");
             a.PrintInfo();
             Console.WriteLine();
-            Transport b = new Mercedes();
+            Transport b = new Mercedes(Mercedes.MercedesModel.SLS, ConsoleColor.Green);
             b.PrintInfo();
         }
     }
