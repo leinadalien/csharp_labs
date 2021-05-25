@@ -1,0 +1,7 @@
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\bin\Debug\Word Reverser.exe.config
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\bin\Debug\Word Reverser.exe
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\bin\Debug\Word Reverser.pdb
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\obj\Debug\Word Reverser.csprojAssemblyReference.cache
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\obj\Debug\Word Reverser.csproj.CoreCompileInputs.cache
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\obj\Debug\Word Reverser.exe
+C:\Users\leinadalien\source\repos\Word Reverser\Word Reverser\obj\Debug\Word Reverser.pdb
