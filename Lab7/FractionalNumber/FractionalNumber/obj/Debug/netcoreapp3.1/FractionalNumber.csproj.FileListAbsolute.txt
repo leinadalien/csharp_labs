@@ -1,0 +1,13 @@
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\bin\Debug\netcoreapp3.1\FractionalNumber.exe
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\bin\Debug\netcoreapp3.1\FractionalNumber.deps.json
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\bin\Debug\netcoreapp3.1\FractionalNumber.runtimeconfig.json
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\bin\Debug\netcoreapp3.1\FractionalNumber.runtimeconfig.dev.json
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\bin\Debug\netcoreapp3.1\FractionalNumber.dll
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\bin\Debug\netcoreapp3.1\FractionalNumber.pdb
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.csprojAssemblyReference.cache
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.AssemblyInfoInputs.cache
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.AssemblyInfo.cs
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.csproj.CoreCompileInputs.cache
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.dll
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.pdb
+C:\Users\leinadalien\source\repos\FractionalNumber\FractionalNumber\obj\Debug\netcoreapp3.1\FractionalNumber.genruntimeconfig.cache
