@@ -1,7 +1,0 @@
-D:\Visual Studio projects\DataDigits\DataDigits\bin\Debug\DataDigits.exe.config
-D:\Visual Studio projects\DataDigits\DataDigits\bin\Debug\DataDigits.exe
-D:\Visual Studio projects\DataDigits\DataDigits\bin\Debug\DataDigits.pdb
-D:\Visual Studio projects\DataDigits\DataDigits\obj\Debug\DataDigits.csprojAssemblyReference.cache
-D:\Visual Studio projects\DataDigits\DataDigits\obj\Debug\DataDigits.csproj.CoreCompileInputs.cache
-D:\Visual Studio projects\DataDigits\DataDigits\obj\Debug\DataDigits.exe
-D:\Visual Studio projects\DataDigits\DataDigits\obj\Debug\DataDigits.pdb
